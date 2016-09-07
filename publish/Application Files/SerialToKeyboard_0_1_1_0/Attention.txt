@@ -1,0 +1,5 @@
+﻿Die Zeichen Plus (+), Zirkumflex (^), Prozent (%), Tilde (~) sowie die runden Klammern ( ) haben für SendKeys eine besondere Bedeutung.
+Zum Angeben eines dieser Zeichen schließen Sie es in geschweifte Klammern ({}) ein.Geben Sie das Pluszeichen z. B. durch "{+}" an.
+Geschweifte Klammern geben Sie mit "{{}" und "{}}" an.Eckige Klammern ([ ]) haben zwar keinerlei Spezialbedeutung für SendKeys, müssen
+aber auch in geschweifte Klammern eingeschlossen werden.In anderen Anwendungen haben eckige Klammern eine besondere Bedeutung, die 
+möglicherweise für dynamischen Datenaustausch (DDE, Dynamic Data Exchange) relevant ist.

@@ -1,0 +1,13 @@
+<?xml version='1.0'?>
+<settings>
+	<com>COM10</com>
+	<!-- options		COM Port without spaces COM3-->
+	<bauds>9600</bauds>
+	<!-- options		9600	4800	9600	19200	38400	57600	115200 -->
+	<WindowState>minimized</WindowState>
+	<!-- options		minimized	normal -->
+	<WinStart>true</WinStart>
+	<!-- options		true	false -->
+	<Endchart>tab</Endchart>
+	<!-- options		tab	enter none -->
+</settings>
